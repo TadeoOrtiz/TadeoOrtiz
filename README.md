@@ -1,8 +1,7 @@
 # Tadeo Ortiz
 
-{ <br>
-<span style="color: green"> Some green text </span>
 
+{
 &emsp;"🤵 Name": <color>"Tadeo", <br>
 &emsp;"🕶 Age": 20, <br>
 &emsp;"💜 Favorite lang's": ["C#", "GDScript"], <br>
