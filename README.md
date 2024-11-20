@@ -2,10 +2,12 @@
 
 
 {
-&emsp;"🤵 Name": <color>"Tadeo", <br>
-&emsp;"🕶 Age": 20, <br>
-&emsp;"💜 Favorite lang's": ["C#", "GDScript"], <br>
-&emsp;"✏ I'm currently learning": "js" <br>
+
+* `🤵 NAME`: Tadeo,
+* `🕶 Age`: 20,
+* `💜 Favorite lang's`: C# - GDScript,
+* `✏ I'm currently learning`: JS
+
 }
 
 <br/>
