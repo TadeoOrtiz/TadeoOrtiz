@@ -1,8 +1,17 @@
 # Tadeo Ortiz
 
-- `Name`: Tadeo
-- `Current lengauge`: C# - GDScript
+{ <br>
+<span style="color: green"> Some green text </span>
 
+&emsp;"🤵 Name": <color>"Tadeo", <br>
+&emsp;"🕶 Age": 20, <br>
+&emsp;"💜 Favorite lang's": ["C#", "GDScript"], <br>
+&emsp;"✏ I'm currently learning": "js" <br>
+}
+
+<br/>
+
+<h2 align="center">🐱‍👤 Statistics</h2>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=TadeoOrtiz&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
