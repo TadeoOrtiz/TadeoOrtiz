@@ -4,7 +4,8 @@
 {
 
 * `🤵 NAME`: Tadeo,
-* `🕶 Age`: 20,
+* `🕶 AGE`: 20,
+* `🇦🇷 COUNTRY`: Argentina,
 * `💜 Favorite lang's`: C# - GDScript,
 * `✏ I'm currently learning`: JS
 
