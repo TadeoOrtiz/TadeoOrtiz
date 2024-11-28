@@ -1,7 +1,5 @@
 # Tadeo Ortiz
 
-<a href="https://www.google.com/search?client=firefox-b-d&q=mejorar+buscardor+windows+10">queso</a>
-
 {
 
 * `🤵 NAME`: Tadeo,
