@@ -1,14 +1,20 @@
 # Tadeo Ortiz
 
-{
 
-* `🤵 NAME`: Tadeo,
-* `🕶 AGE`: 20,
-* `🇦🇷 COUNTRY`: Argentina,
-* `💜 Favorite lang's`: C# - GDScript,
-* `✏ I'm currently learning`: JS
+```TypeScript
+const human = {
+  name: "Tadeo",
+  age: 20,
+  country: "Argentina",
+  languages: {
+    favorite: "C#",
+    learning: "TypeScript",
+  },
+  favoriteFood: "Empanada",
+};
 
-}
+console.log(human)
+```
 
 <br/>
 
