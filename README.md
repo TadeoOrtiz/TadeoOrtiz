@@ -4,10 +4,9 @@
 public class Human
 {
     public string Name { get; set; } = "Tadeo";
-    public int Age { get; set; } = 20;
+    public int Age { get; set; } = 21;
     public string Country { get; set; } = "Argentina";
     public string FavoriteLanguage { get; set; } = "C#";
-    public string FavoriteFood { get; set; } = "Empanada";
 }
 ```
 
