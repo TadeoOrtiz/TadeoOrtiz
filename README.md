@@ -7,7 +7,6 @@ public class Human
     public int Age { get; set; } = 20;
     public string Country { get; set; } = "Argentina";
     public string FavoriteLanguage { get; set; } = "C#";
-    public string Learning { get; set; } = "TypeScript";
     public string FavoriteFood { get; set; } = "Empanada";
 }
 ```
