@@ -26,12 +26,3 @@ public class Human
 
 ![TadeoOrtiz GitHub Stats](https://github-readme-stats.vercel.app/api?username=TadeoOrtiz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadeoOrtiz&layout=compact&theme=radical)
-
-## 📫 Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
-- Email: tuemail@example.com
-
----
-
-> “El open source nos une para construir un mejor futuro tecnológico.” 🚀
