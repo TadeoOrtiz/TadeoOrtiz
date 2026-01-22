@@ -20,7 +20,6 @@ public class Human
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-> _Cuando agregues un nuevo proyecto en otro lenguaje, solo suma el badge correspondiente aquí._
 
 ## 📈 GitHub Stats
 
